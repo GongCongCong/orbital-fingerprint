@@ -6,7 +6,7 @@
 
 $LPE= \frac{\sum^{n}_{1}}{N_{sp^2} + N_{{sp}^3}}$
 
-![1563772391607](C:\Users\cc gong\Documents\interaction\report\word\first submit\github\orbital-fingerprint\1563772391607.png)
+![1563772391607](./1563772391607.png)
 
 where $N^{e}_{i}​$ is the number of lone paired electron of the $i​$-th atom; $N_{{sp}^2}​$ and  are the numbers of $sp^2​$- and $sp^3​$-hybridized atoms, respectively. 
 
