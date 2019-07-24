@@ -7,12 +7,12 @@
 ![LPE formula](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;\huge&space;LPE=&space;\frac{\sum^{n}_{1}N_i^e}{N_{sp^2}&space;&plus;&space;N_{{sp}^3}})
 
 where 
-![N_i^e](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;\huge&space;N_i^e) is the number of lone paired electron of the 
-![i](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;\huge&space;i)-th atom; 
-![N_{sp^2}](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;\huge&space;N_{sp^2}) and 
-![N_{sp^3}](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;\huge&space;N_{sp^3}) are the numbers of 
-![sp^2](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;\huge&space;sp^2)- and 
-![sp^3](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;\huge&space;sp^3)-hybridized atoms, respectively. 
+![N_i^e](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;N_i^e) is the number of lone paired electron of the 
+![i](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;i)-th atom; 
+![N_{sp^2}](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;N_{sp^2}) and 
+![N_{sp^3}](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;N_{sp^3}) are the numbers of 
+![sp^2](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;sp^2)- and 
+![sp^3](https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cs&space;sp^3)-hybridized atoms, respectively. 
 
 ## PMI
 
