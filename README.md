@@ -7,6 +7,7 @@
 $LPE= \frac{\sum^{n}_{1}}{N_{sp^2} + N_{{sp}^3}}$
 
 ![1563772391607](./1563772391607.png)
+![LPE formula](<https://www.codecogs.com/eqnedit.php?latex=\inline&space;\bg_white&space;\fn_cm&space;\huge&space;LPE=&space;\frac{\sum^{n}_{1}N_i^e}{N_{sp^2}&space;&plus;&space;N_{{sp}^3}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;\bg_white&space;\fn_cm&space;\huge&space;LPE=&space;\frac{\sum^{n}_{1}N_i^e}{N_{sp^2}&space;&plus;&space;N_{{sp}^3}}" title="\huge LPE= \frac{\sum^{n}_{1}N_i^e}{N_{sp^2} + N_{{sp}^3}})
 
 where $N^{e}_{i}​$ is the number of lone paired electron of the $i​$-th atom; $N_{{sp}^2}​$ and  are the numbers of $sp^2​$- and $sp^3​$-hybridized atoms, respectively. 
 
