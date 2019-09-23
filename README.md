@@ -1,8 +1,8 @@
-# orbital-fingerprint
+# Orbital-Fingerprint
 
  We used molecular characterization (hybrid orbitals and electron distribution) to construct a mathematical model to evaluate the ability to form hydrogen bonds and named it with lone-pair electron (LPE).To comprehensively explore molecular interaction, using molecular properties including the hybrid orbital forms of each atom, atomic bonding types, and the adjacency list of atoms, we constructed a molecular fingerprint and named it orbital fingerprint. Then a graph neural network (GNN) for compounds was constructed using orbital fingerprint. A prediction for molecular interaction (PMI) was performed by combining this GNN and a convolutional neural network (CNN) for proteins.
  We obtained the human dataset that contains highly credible 3369 positive and 3359 negative interactions between 1052 unique compounds and 852 unique proteins from website (https://github.com/masashitsubaki/CPI_prediction/tree/master/dataset/human).
- We combined a graph neural network (GNN) for compounds(20) and a convolutional neural network (CNN) for proteins(21) (Figure 2a&b) to constructs the artificial neural networks model PMI for predicting molecular interaction(22).
+ We combined a graph neural network (GNN) for compounds and a convolutional neural network (CNN) for proteins to constructs the artificial neural networks model PMI for predicting molecular interaction.
 
 ## The calculation of the lone-pair electron (LPE) index
 The molecule structure was converted to simplified molecular-input line-entry system (SMILES) format using RDKit (Open-source cheminformatics; http://www.rdkit.org). And we used the Chem module of RDKit to calculate the numbers of lone pair electrons and the numbers of the sp2- and sp3-orbitals of each molecules. Then the LPE index was calculated using the formula: 
